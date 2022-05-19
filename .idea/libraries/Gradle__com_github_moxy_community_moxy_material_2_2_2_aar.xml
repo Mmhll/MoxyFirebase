@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.moxy-community:moxy-material:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/80fd78e2a369e9a4fb71cf390af036f3/transformed/moxy-material-2.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/80fd78e2a369e9a4fb71cf390af036f3/transformed/moxy-material-2.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/80fd78e2a369e9a4fb71cf390af036f3/transformed/moxy-material-2.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.moxy-community/moxy-material/2.2.2/6a7ac36005e9491c75963ba5076c4371a8c2bd6d/moxy-material-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.moxy-community/moxy-material/2.2.2/dccfd1ce5c4b6272b2853daa5e67268f500ebe73/moxy-material-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
